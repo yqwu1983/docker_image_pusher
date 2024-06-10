@@ -1,1 +1,2 @@
-rstudio/r-base:4.3-jammy
+ubuntu:20.04
+hydragenetics/cnvpytor:1.3.1
