@@ -1,3 +1,1 @@
-ubuntu:23.10
-ubuntu:24.04
-ubuntu:24.10
+ghcr.io/marcelauliano/mitohifi:master
