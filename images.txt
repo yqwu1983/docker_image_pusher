@@ -1,1 +1,1 @@
-ghcr.io/marcelauliano/mitohifi:master
+nanoporetech/dorado:sha58b978562389bd0f1842601fb83cdf1eb2920218
